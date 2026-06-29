@@ -1,0 +1,2 @@
+prag 28000 za testove mnozinazuba, zubici, recenicazub - zna da razlikuje zub i zubic
+prag 37700 za testove zubtest, zubrec, mnozinazuba - razlikuje zub i zubar i prepoznaje vise puta rec u recenici
